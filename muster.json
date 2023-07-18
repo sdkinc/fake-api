@@ -1,4 +1,7 @@
 {
-"name":"vlad tepesh",
-"age":555
+  "name": "Vlad Tepesh",
+  "age": 589,
+  "isHungry": true,
+  "mood": "good",
+  "motto": "There is enough stakes for everyone"
 }
