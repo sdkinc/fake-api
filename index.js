@@ -2,7 +2,7 @@ const tableElement = document.getElementById("table-element");
 const headElement = document.getElementById("header");
 
 async function getCheck() {
-    const response = await fetch("https://sdkinc.github.io/fake-api/checks_export.json");
+    const response = await fetch("https://sdkinc.github.io/fake-api/res/checks_export.json");
     const check = await response.json();
     const { Чеки } = check;
     Чеки.forEach(element => {
