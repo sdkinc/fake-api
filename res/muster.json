@@ -1,15 +1,17 @@
-{
-	"id": 0,
-	"title": "first manual",
-	"description": "first manual as muster",
-	"steps": [
-		{
-			"id": 0,
-			"previousStep": "",
-			"nextStep": "",
-			"title": "step title",
-			"description": "some description of step",
-			"image": "some link image"
-		}
-	]
-}
+[
+	{
+		"id": 0,
+		"title": "first manual",
+		"description": "first manual as muster",
+		"steps": [
+			{
+				"id": 0,
+				"previousStep": "",
+				"nextStep": "",
+				"title": "step title",
+				"description": "some description of step",
+				"image": "some link image"
+			}
+		]
+	}
+]
