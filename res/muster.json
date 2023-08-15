@@ -1,7 +1,15 @@
 {
-  "name": "Vlad Tepesh",
-  "age": 589,
-  "isHungry": true,
-  "mood": "good",
-  "motto": "There is enough stakes for everyone"
+	"id": 0,
+	"title": "first manual",
+	"description": "first manual as muster",
+	"steps": [
+		{
+			"id": 0,
+			"previousStep": "",
+			"nextStep": "",
+			"title": "step title",
+			"description": "some description of step",
+			"image": "some link image"
+		}
+	]
 }
